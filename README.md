@@ -1,3 +1,5 @@
+Detection(0.2s), GPU Using lata
+
 1. 46, 8.53
 2. 22, 2.48
 3. 15, 2.39
